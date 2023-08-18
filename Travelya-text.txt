@@ -107,7 +107,7 @@
 	"Follow Us"
     .footer__links
 	"Facebook"
-	"Inestagram"
+	"Instagram"
 	"Twitter"
 
 .footer__copyRight
